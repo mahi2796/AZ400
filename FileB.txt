@@ -1,1 +1,2 @@
 This is File B --version 1
+---Version2---
